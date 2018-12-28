@@ -8,3 +8,9 @@ db/
 output_files/
 
 *.bak
+
+incremental_db/compiled_partitions/
+
+incremental_db/
+
+greybox_tmp/
