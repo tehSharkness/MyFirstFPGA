@@ -282,3 +282,5 @@ refer to the applicable agreement for further details.
 	(pt 160 296)
 	(pt 200 296)
 )
+(text "OFF = SLOW" (rect 192 568 267 587)(font "Intel Clear" (font_size 8)))
+(text "ON = FAST" (rect 192 584 258 603)(font "Intel Clear" (font_size 8)))

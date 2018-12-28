@@ -1,4 +1,4 @@
-//It has a single clock input and a 32-bit output port
+// It has a single clock input and a 32-bit output port
 
 module simple_counter
 	(
